@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
- 
+ <h2 align="center">Welcome!</h2><br>
  <h3 align="center">:bulb: Tech Stack :bulb:</h3><br>
  
  <p align="center">
