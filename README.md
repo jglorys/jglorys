@@ -21,5 +21,5 @@
 <hr>
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
- <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white"/>
+ <a href="mailto:jglorys@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
 </div>
