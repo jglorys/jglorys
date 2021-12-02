@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=350&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
  
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
