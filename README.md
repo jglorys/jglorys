@@ -1,7 +1,8 @@
 <div align-center>
- ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=:heartpulse:SeoYoungLee&fontSize=65&fontColor=FFFFFF)
- <br>
-  
+
+ 
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+ 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
