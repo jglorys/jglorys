@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
  
- <h3 align="center">:bulb: Tech Stack :bulb:</h3> 
+ <h3 align="center">:bulb: Tech Stack :bulb:</h3><br>
+ 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
