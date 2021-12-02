@@ -3,7 +3,7 @@
  <h3 align="center">:bulb: Tech Stack :bulb:</h3><br>
  
  <p align="center">
- Languages
+ Languages<br>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br>
  
  Web
