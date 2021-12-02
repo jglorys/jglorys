@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align-center>
-  ![header](https:/capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=Lee%20Seo%20Young&fontSize=65&fontColor=FFFFFF)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=Lee%20Seo%20Young&fontSize=65&fontColor=FFFFFF)
   
   <br>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
