@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
  
- <h3 align="center">:bulb: Tech Stack :bulb:</h3><br>
+ <h3 align="center">:bulb: Tech Stack :bulb:</h3>
  
  <p align="center">
- Languages<br>
+ Languages<br><br>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br>
  
  Web
