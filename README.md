@@ -1,5 +1,5 @@
 <div align-center>
- ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=SeoYoungLee&fontSize=65&fontColor=FFFFFF)
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=:heartpulse:SeoYoungLee&fontSize=65&fontColor=FFFFFF)
   
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
