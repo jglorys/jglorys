@@ -6,7 +6,7 @@
 <div align="center">
   <a href="mailto:jglorys@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
   <a href="https://youngforgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DA074A?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
-</div><br><br>
+</div><br>
 
  
  <h3 align="center">:bulb: Tech Stack :bulb:</h3>
