@@ -35,6 +35,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/jglorys">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-il&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jglorys&layout=compact" />
   </a>
 </div>
