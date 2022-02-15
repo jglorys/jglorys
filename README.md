@@ -29,3 +29,12 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </div><br><br>
+
+
+
+<br>
+<div align="center">
+  <a href="https://github.com/jglorys">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-il&layout=compact" />
+  </a>
+</div>
