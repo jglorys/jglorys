@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Seoyoung's%20GitHub&fontSize=70&animation=scaleIn)
- <h1 align="center">🐜👩🏻‍💻🏄‍♀️</h1>
- 
- 
+
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
   <a href="mailto:jglorys@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
@@ -27,6 +25,7 @@
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </div><br><br>
